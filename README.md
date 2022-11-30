@@ -68,3 +68,11 @@ No back-end foi utilizado apenas laravel.
 > Parametro id: integer
 
 > Retorna uma mensagem e status 201
+
+## DELETE /api/address/{id}
+
+> Deleta um endereço do sistema
+
+> Parametro id: integer
+
+> Retorna uma mensagem e status 201
