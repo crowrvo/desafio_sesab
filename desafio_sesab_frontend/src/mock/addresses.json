@@ -1,0 +1,47 @@
+[
+  {
+    "id": "03a7f9e0-7170-4a88-894c-8c3e47f9e91d",
+    "logradouro": "Rua Teste 1",
+    "cep": 12345618
+  },
+  {
+    "id": "d9d50784-8381-401c-83cb-c0e913d79c59",
+    "logradouro": "Rua Teste 2",
+    "cep": 12345628
+  },
+  {
+    "id": "39a0970e-0b98-44bd-b86d-ba317f0ea1ae",
+    "logradouro": "Rua Teste 3",
+    "cep": 12345638
+  },
+  {
+    "id": "f6cfa2ad-64da-433b-97ff-1ac5557fbb17",
+    "logradouro": "Rua Teste 4",
+    "cep": 12345648
+  },
+  {
+    "id": "1135ec7c-ae22-4133-b521-34fa7e562b4e",
+    "logradouro": "Rua Teste 5",
+    "cep": 12345658
+  },
+  {
+    "id": "ff793ac9-8a73-47b3-9d05-72d3929453ca",
+    "logradouro": "Rua Teste 6",
+    "cep": 12345668
+  },
+  {
+    "id": "b4e94b89-7dee-4264-a135-f8dd05b09880",
+    "logradouro": "Rua Teste 7",
+    "cep": 12345678
+  },
+  {
+    "id": "4f65ad5e-be56-41cd-ae7d-93673848b3b5",
+    "logradouro": "Rua Teste 8",
+    "cep": 12345688
+  },
+  {
+    "id": "8fb1af2e-1344-4b6b-895b-9017c7bdcb2f",
+    "logradouro": "Rua Teste 9",
+    "cep": 12345698
+  }
+]
