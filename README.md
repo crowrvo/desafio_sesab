@@ -5,7 +5,7 @@ Eu criei um Datapicker, um Calendar, um Input e um select próprio para maior in
 
 ## TECNOLOGIAS UTILIZADAS
 
-No front-end utilizei Vue 3 com typescript com composition-api e os plugins: Vue-Router e Vue-Use; Para estilo utilizei Scss.
+No front-end utilizei Vue 3 com typescript com composition-api e os plugins: Vue-Router e Vue-Use; Para estilo utilizei Scss e para requestr HTTP utilize Axios
 
 Os icones utilizados foram baixados da internet e utilizados diretamente.
 
