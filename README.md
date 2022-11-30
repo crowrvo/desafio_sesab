@@ -37,13 +37,13 @@ No back-end foi utilizado apenas laravel.
 
 > Retorna o usuário e status 200
 
-## GET /api/users/:id
+## GET /api/user/:id
 
 > Exibe o respectivo usuário cadastrado
 
 > Retorna o usuário e status 200
 
-## POST /api/users/
+## POST /api/user/
 
 > Cria um novo usuário
 
@@ -51,7 +51,7 @@ No back-end foi utilizado apenas laravel.
 
 > Retorna o usuário e status 201
 
-## PUT /api/users/{id}
+## PUT /api/user/{id}
 
 > Edita um usuário do sistema
 
@@ -61,7 +61,7 @@ No back-end foi utilizado apenas laravel.
 
 > Retorna o usuário e status 201
 
-## DELETE /api/users/{id}
+## DELETE /api/user/{id}
 
 > Deleta um usuário do sistema
 
