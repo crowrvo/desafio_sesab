@@ -76,3 +76,5 @@ No back-end foi utilizado apenas laravel.
 > Parametro id: integer
 
 > Retorna uma mensagem e status 201
+
+Utilizar php ./artisian db:seed para gerar os perfils de usuários
